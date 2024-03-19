@@ -1,4 +1,4 @@
-# Any-Language Word Guessing Game
+# Tunica Yanashimi - A Word Guessing Game
 
 ## Changes in this fork
 
