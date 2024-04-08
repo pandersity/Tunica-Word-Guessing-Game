@@ -12,7 +12,7 @@
   "pickYourLanguage": "Choose a language",
   "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
   "wrongSpotInstructions": "The letter O is in the word but in the wrong spot.",
-  "notInWordInstructions": "The letter H is not in the word in any spot.",
+  "notInWordInstructions": "Neither the glottal stop (the apostrophe) nor the letter K are in the word in any spot.",
   "guessDistribution": "Guess Distribution",
   "statistics": "Statistics",
   "totalTries": "Total tries",
@@ -68,23 +68,23 @@
   ],
   "thirdExampleWord": [
     {
-      "letter": "K",
+      "letter": "A",
       "highlight": false
     },
     {
-      "letter": "O",
-      "highlight": false
-    },
-    {
-      "letter": "C",
-      "highlight": false
-    },
-    {
-      "letter": "H",
+      "letter": "'",
       "highlight": true
     },
     {
-      "letter": "U",
+      "letter": "A",
+      "highlight": false
+    },
+    {
+      "letter": "K",
+      "highlight": true
+    },
+    {
+      "letter": "I",
       "highlight": false
     }
   ],
