@@ -1,6 +1,6 @@
 {
   "about": "Acerca de este juego",
-  "gameName": "No Juego - {{language}}",
+  "gameName": "Tunica Yanashimi",
   "enterKey": "Enviar",
   "deleteKey": "Eliminar",
   "notEnoughLetters": "No hay suficientes letras",
@@ -21,7 +21,7 @@
   "bestStreak": "Mejor racha",
   "newWordCountdown": "Nueva palabra en",
   "share": "Compartir",
-  "winMessages": ["¡Gran trabajo!", "Increíble", "¡Bien hecho!"],
+  "winMessages": ["Ko'o!", "Increíble", "Lapu!"],
   "firstExampleWord": [
     {
       "letter": "T",
@@ -95,6 +95,7 @@
   "languages": {
     "en": "English",
     "es": "Español",
+    "fr": "Français",
     "sw": "Kiswahili",
     "zh": "中文"
   }

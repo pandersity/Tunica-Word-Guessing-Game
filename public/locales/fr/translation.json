@@ -1,0 +1,101 @@
+{
+  "about": "À propos de ce jeu",
+  "gameName": "Tunica Yanashimi",
+  "enterKey": "Entrer",
+  "deleteKey": "Supprimer",
+  "notEnoughLetters": "Pas assez de lettres",
+  "wordNotFound": "Mot non trouvé",
+  "solution": "Le mot était {{solution}}",
+  "gameCopied": "Jeu copié dans le presse-papiers",
+  "howToPlay": "Comment jouer",
+  "instructions": "Devinez le mot en {{tries}} essais. Après chaque supposition, la couleur des tuiles changera pour montrer à quel point votre supposition était proche du mot.",
+  "pickYourLanguage": "Choisissez une langue",
+  "correctSpotInstructions": "La lettre W est dans le mot et à la bonne place.",
+  "wrongSpotInstructions": "La lettre O est dans le mot mais à la mauvaise place.",
+  "notInWordInstructions": "Ni l'arrêt glottal (l'apostrophe) ni la lettre K ne sont dans le mot à aucun endroit.",
+  "guessDistribution": "Répartition des suppositions",
+  "statistics": "Statistiques",
+  "totalTries": "Essais totaux",
+  "successRate": "Taux de réussite",
+  "currentStreak": "Série actuelle",
+  "bestStreak": "Meilleure série",
+  "newWordCountdown": "Nouveau mot dans",
+  "share": "Partager",
+  "winMessages": ["Ko'o!", "Génial", "Lapu!"],
+  "firstExampleWord": [
+    {
+      "letter": "W",
+      "highlight": true
+    },
+    {
+      "letter": "A",
+      "highlight": false
+    },
+    {
+      "letter": "C",
+      "highlight": false
+    },
+    {
+      "letter": "H",
+      "highlight": false
+    },
+    {
+      "letter": "I",
+      "highlight": false
+    }
+  ],
+  "secondExampleWord": [
+    {
+      "letter": "C",
+      "highlight": false
+    },
+    {
+      "letter": "H",
+      "highlight": false
+    },
+    {
+      "letter": "O",
+      "highlight": true
+    },
+    {
+      "letter": "M",
+      "highlight": false
+    },
+    {
+      "letter": "U",
+      "highlight": false
+    }
+  ],
+  "thirdExampleWord": [
+    {
+      "letter": "A",
+      "highlight": false
+    },
+    {
+      "letter": "'",
+      "highlight": true
+    },
+    {
+      "letter": "A",
+      "highlight": false
+    },
+    {
+      "letter": "K",
+      "highlight": true
+    },
+    {
+      "letter": "I",
+      "highlight": false
+    }
+  ],
+  "dictionarySentence": "Vous cherchez des idées de mots?",
+  "aboutAuthorSentence": "Ceci est un jeu de devinettes open source adapté à {{language}} par <3>{{author}}</3>. ",
+  "aboutCodeSentence": "Consultez <1>le code original</1> de <3>Hannah Park</3> ou jetez un œil au <5>fork d'Aidan Pine</5> et personnalisez-le pour une autre langue! ",
+  "aboutDataSentence": "Les mots pour ce jeu ont été obtenus de <1>{{wordListSource}}</1>. ",
+  "languages": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "sw": "Kiswahili",
+    "zh": "Chinois"
+  }
+}
